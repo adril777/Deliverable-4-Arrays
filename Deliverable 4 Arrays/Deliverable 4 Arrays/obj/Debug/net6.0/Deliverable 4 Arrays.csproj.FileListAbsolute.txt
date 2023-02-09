@@ -1,0 +1,15 @@
+/Users/adrianaalcocer/Desktop/Deliverable 4 Arrays/Deliverable 4 Arrays/bin/Debug/net6.0/Deliverable 4 Arrays
+/Users/adrianaalcocer/Desktop/Deliverable 4 Arrays/Deliverable 4 Arrays/bin/Debug/net6.0/Deliverable 4 Arrays.deps.json
+/Users/adrianaalcocer/Desktop/Deliverable 4 Arrays/Deliverable 4 Arrays/bin/Debug/net6.0/Deliverable 4 Arrays.runtimeconfig.json
+/Users/adrianaalcocer/Desktop/Deliverable 4 Arrays/Deliverable 4 Arrays/bin/Debug/net6.0/Deliverable 4 Arrays.dll
+/Users/adrianaalcocer/Desktop/Deliverable 4 Arrays/Deliverable 4 Arrays/bin/Debug/net6.0/Deliverable 4 Arrays.pdb
+/Users/adrianaalcocer/Desktop/Deliverable 4 Arrays/Deliverable 4 Arrays/obj/Debug/net6.0/Deliverable 4 Arrays.csproj.AssemblyReference.cache
+/Users/adrianaalcocer/Desktop/Deliverable 4 Arrays/Deliverable 4 Arrays/obj/Debug/net6.0/Deliverable 4 Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adrianaalcocer/Desktop/Deliverable 4 Arrays/Deliverable 4 Arrays/obj/Debug/net6.0/Deliverable 4 Arrays.AssemblyInfoInputs.cache
+/Users/adrianaalcocer/Desktop/Deliverable 4 Arrays/Deliverable 4 Arrays/obj/Debug/net6.0/Deliverable 4 Arrays.AssemblyInfo.cs
+/Users/adrianaalcocer/Desktop/Deliverable 4 Arrays/Deliverable 4 Arrays/obj/Debug/net6.0/Deliverable 4 Arrays.csproj.CoreCompileInputs.cache
+/Users/adrianaalcocer/Desktop/Deliverable 4 Arrays/Deliverable 4 Arrays/obj/Debug/net6.0/Deliverable 4 Arrays.dll
+/Users/adrianaalcocer/Desktop/Deliverable 4 Arrays/Deliverable 4 Arrays/obj/Debug/net6.0/refint/Deliverable 4 Arrays.dll
+/Users/adrianaalcocer/Desktop/Deliverable 4 Arrays/Deliverable 4 Arrays/obj/Debug/net6.0/Deliverable 4 Arrays.pdb
+/Users/adrianaalcocer/Desktop/Deliverable 4 Arrays/Deliverable 4 Arrays/obj/Debug/net6.0/Deliverable 4 Arrays.genruntimeconfig.cache
+/Users/adrianaalcocer/Desktop/Deliverable 4 Arrays/Deliverable 4 Arrays/obj/Debug/net6.0/ref/Deliverable 4 Arrays.dll
